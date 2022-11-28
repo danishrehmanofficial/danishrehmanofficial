@@ -2,7 +2,7 @@
 - 👀 I’m interested in Project Management
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me through Ph: +923440029723
+- 📫 How to reach me through email, realdanishrehman@gmail.com
 
 <!---
 danishrehmanofficial/danishrehmanofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
